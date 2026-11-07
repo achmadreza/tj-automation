@@ -1,0 +1,13 @@
+{
+  "firstName": "Budi",
+  "lastName": "Santoso",
+  "email": "budi.santoso@example.com",
+  "gender": "Male",
+  "phone": "8123456789",
+  "dateOfBirth": "05 Oct 1990",
+  "subjects": ["Maths"],
+  "hobbies": ["Sports"],
+  "address": "Jl. Sudirman No. 1, Jakarta",
+  "state": "Rajasthan",
+  "city": "Jaipur"
+}
