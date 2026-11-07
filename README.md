@@ -16,7 +16,7 @@ Kode dipisahkan ke dalam 4 bagian:
 
 | # | Modul | URL | Skenario |
 |---|-------|-----|----------|
-| 1 | Web Tables | https://demoqa.com/webtables | Bulk insert banyak user dari `data/users.csv`, lalu verifikasi semua user muncul di tabel |
+| 1 | Bulk Insert User | https://demoqa.com/webtables | Bulk insert banyak user dari `data/users.csv`, lalu verifikasi semua user muncul di tabel |
 | 2 | Droppable | https://demoqa.com/droppable | Drag and drop elemen ke area target, verifikasi teks berubah menjadi "Dropped!" |
 | 3 | Resizable | https://demoqa.com/resizable | Resize elemen menjadi 400×200 px, verifikasi ukuran sesuai |
 | 4 | Registration Form | https://demoqa.com/automation-practice-form | Isi & submit form Student Registration, verifikasi data di popup konfirmasi |
