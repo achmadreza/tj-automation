@@ -61,17 +61,17 @@ npx playwright test tests/bulkinsertUser.spec.ts
 
 ```
 tests/
-  webTables.spec.ts          → bulk insert user dari CSV
+  bulkinsertUser.spec.ts          → bulk insert user dari CSV
   droppable.spec.ts          → drag and drop
   resizable.spec.ts          → resize 400x200
   registrationForm.spec.ts   → submit form + verifikasi popup
 pages/
-  WebTablesPage.ts
+  BulkInsertUserPage.ts
   DroppablePage.ts
   ResizablePage.ts
   RegistrationFormPage.ts
 locators/
-  webTables.locators.ts
+  insertUser.locators.ts
   droppable.locators.ts
   resizable.locators.ts
   registrationForm.locators.ts
